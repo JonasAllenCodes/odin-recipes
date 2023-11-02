@@ -10,4 +10,6 @@ In this project we will go over the basics of HTML Foundations by building a rec
 This should be an easy project that I already have experience with. To  the finish line!
 
 ## Post Mission Statement
-*TBA - To Be Announced*
+*11-01-2023*
+
+Project is complete for lesson standards. After I refresh the CSS Foundations, I will come back and style this project. Lesson was an easy refresher but tedious to build out the lists. I was almost tempted to have AI build out the list format for me! ;p
