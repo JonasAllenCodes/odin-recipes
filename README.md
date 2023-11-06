@@ -13,3 +13,8 @@ This should be an easy project that I already have experience with. To  the fini
 *11-01-2023*
 
 Project is complete for lesson standards. After I refresh the CSS Foundations, I will come back and style this project. Lesson was an easy refresher but tedious to build out the lists. I was almost tempted to have AI build out the list format for me! ;p
+
+### Update
+*11-06-2023*
+
+I have completed CSS Foundations and per course assignments. I have updated the CSS with what was refreshed in my memory. After completing Flexbox, I will most likely update this project again.
