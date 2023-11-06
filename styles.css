@@ -4,3 +4,25 @@
     color: greenyellow;
     font-family: 'Courier New', Courier, monospace;
 }
+
+body {
+    border-style: solid;
+    border-width: 20px;
+}
+
+h2, .title {
+    border-bottom-color: greenyellow;
+    border-bottom-width: 10px;
+    border-bottom-style: solid;
+}
+
+.nav li {
+    list-style: none;
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 3em;
+}
+
+.nav li a   {
+    text-decoration: none;
+}
